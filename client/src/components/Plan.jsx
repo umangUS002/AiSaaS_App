@@ -1,5 +1,6 @@
 import React from 'react'
 import {PricingTable} from '@clerk/clerk-react'
+
 const Plan = () => {
   return (
     <div className='max-w-2xl mx-auto z-20 my-30'>
