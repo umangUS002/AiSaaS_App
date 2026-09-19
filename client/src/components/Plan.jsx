@@ -1,5 +1,5 @@
 import React from 'react'
-import {PricingTable} from '@clerk/clerk-react'
+import { PricingTable } from '@clerk/clerk-react'
 
 const Plan = () => {
   return (
@@ -11,8 +11,8 @@ const Plan = () => {
         </p>
       </div>
 
-      <div className='mt-14 max-sm:m-8 mx-4'>
-        <PricingTable/>
+      <div className='mt-14 max-sm:m-8'>
+        <PricingTable />
       </div>
     </div>
   )
